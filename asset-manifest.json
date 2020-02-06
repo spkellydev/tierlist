@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tierlist/static/css/main.e9fca979.chunk.css",
+    "main.js": "/tierlist/static/js/main.e4bcd0d0.chunk.js",
+    "main.js.map": "/tierlist/static/js/main.e4bcd0d0.chunk.js.map",
+    "runtime-main.js": "/tierlist/static/js/runtime-main.f00fef3a.js",
+    "runtime-main.js.map": "/tierlist/static/js/runtime-main.f00fef3a.js.map",
+    "static/css/2.79966c17.chunk.css": "/tierlist/static/css/2.79966c17.chunk.css",
+    "static/js/2.4fb7613b.chunk.js": "/tierlist/static/js/2.4fb7613b.chunk.js",
+    "static/js/2.4fb7613b.chunk.js.map": "/tierlist/static/js/2.4fb7613b.chunk.js.map",
+    "index.html": "/tierlist/index.html",
+    "precache-manifest.3d5d78f24a8b41b6277cbb9d1e53b4fb.js": "/tierlist/precache-manifest.3d5d78f24a8b41b6277cbb9d1e53b4fb.js",
+    "service-worker.js": "/tierlist/service-worker.js",
+    "static/css/2.79966c17.chunk.css.map": "/tierlist/static/css/2.79966c17.chunk.css.map",
+    "static/css/main.e9fca979.chunk.css.map": "/tierlist/static/css/main.e9fca979.chunk.css.map",
+    "static/js/2.4fb7613b.chunk.js.LICENSE.txt": "/tierlist/static/js/2.4fb7613b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f00fef3a.js",
+    "static/css/2.79966c17.chunk.css",
+    "static/js/2.4fb7613b.chunk.js",
+    "static/css/main.e9fca979.chunk.css",
+    "static/js/main.e4bcd0d0.chunk.js"
+  ]
+}
